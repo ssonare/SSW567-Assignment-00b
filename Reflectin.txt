@@ -1,0 +1,20 @@
+
+
+Challenges
+- Handling the triangle inequality correctly.
+- Checking for right triangles while avoiding floating-point errors.
+- Deciding how to combine "Right" with other triangle types in the output.
+
+Requirements Specification
+- The requirements were clear and gave a simple framework. 
+- Including "Right" alongside type required careful planning.
+
+Tool Challenges
+- Initial issues importing the main function into the test file.
+- Remembering to run tests using `unittest` syntax.
+
+Test Coverage Criteria
+- Tested all triangle types (Equilateral, Isosceles, Scalene, Right).
+- Tested invalid triangles (negative or zero sides, triangle inequality failures).
+- Added edge cases for Isosceles Right triangles.
+- Once all tests passed without errors, we considered the testing sufficient.
