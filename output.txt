@@ -1,0 +1,7 @@
+Sides: (3, 3, 3) -> Equilateral
+Sides: (5, 5, 8) -> Isosceles
+Sides: (4, 5, 6) -> Scalene
+Sides: (3, 4, 5) -> Scalene Right
+Sides: (1, 1, 1.4142135623730951) -> Isosceles Right
+Sides: (1, 2, 3) -> Not a triangle
+Sides: (-1, 2, 2) -> Not a triangle

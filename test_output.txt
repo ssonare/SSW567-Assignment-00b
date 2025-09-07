@@ -1,0 +1,11 @@
+test_equilateral (__main__.TestTriangle.test_equilateral) ... ok
+test_invalid_triangle (__main__.TestTriangle.test_invalid_triangle) ... ok
+test_isosceles (__main__.TestTriangle.test_isosceles) ... ok
+test_isosceles_right (__main__.TestTriangle.test_isosceles_right) ... ok
+test_right_triangle (__main__.TestTriangle.test_right_triangle) ... ok
+test_scalene (__main__.TestTriangle.test_scalene) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK
