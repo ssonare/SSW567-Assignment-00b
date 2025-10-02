@@ -1,11 +1,47 @@
-test_equilateral (__main__.TestTriangle.test_equilateral) ... ok
-test_invalid_triangle (__main__.TestTriangle.test_invalid_triangle) ... ok
-test_isosceles (__main__.TestTriangle.test_isosceles) ... ok
-test_isosceles_right (__main__.TestTriangle.test_isosceles_right) ... ok
-test_right_triangle (__main__.TestTriangle.test_right_triangle) ... ok
-test_scalene (__main__.TestTriangle.test_scalene) ... ok
+test_all_sides_zero (__main__.TestTriangle.test_all_sides_zero)
+Test triangle with all sides zero. ... ok
+test_equilateral (__main__.TestTriangle.test_equilateral)
+Test equilateral triangle classification. ... ok
+test_equilateral_large_numbers (__main__.TestTriangle.test_equilateral_large_numbers)
+Test equilateral triangle with large numbers. ... ok
+test_equilateral_right (__main__.TestTriangle.test_equilateral_right)
+Test that equilateral triangles are not classified as right. ... ok
+test_floating_point_sides (__main__.TestTriangle.test_floating_point_sides)
+Test triangle with floating point side lengths. ... ok
+test_invalid_triangle_inequality_first_combination (__main__.TestTriangle.test_invalid_triangle_inequality_first_combination)
+Test invalid triangle: a + b <= c. ... ok
+test_invalid_triangle_inequality_second_combination (__main__.TestTriangle.test_invalid_triangle_inequality_second_combination)
+Test invalid triangle: a + c <= b. ... ok
+test_invalid_triangle_inequality_third_combination (__main__.TestTriangle.test_invalid_triangle_inequality_third_combination)
+Test invalid triangle: b + c <= a. ... ok
+test_invalid_triangle_sum_equals (__main__.TestTriangle.test_invalid_triangle_sum_equals)
+Test invalid triangle where sum of two sides equals third. ... ok
+test_isosceles (__main__.TestTriangle.test_isosceles)
+Test isosceles triangle classification. ... ok
+test_isosceles_not_right (__main__.TestTriangle.test_isosceles_not_right)
+Test isosceles triangle that is not right. ... ok
+test_isosceles_right (__main__.TestTriangle.test_isosceles_right)
+Test isosceles right triangle classification. ... ok
+test_main_function_executes (__main__.TestTriangle.test_main_function_executes)
+Test that main function executes without errors. ... ok
+test_negative_side (__main__.TestTriangle.test_negative_side)
+Test triangle with negative side length. ... ok
+test_right_triangle (__main__.TestTriangle.test_right_triangle)
+Test right triangle classification. ... ok
+test_scalene (__main__.TestTriangle.test_scalene)
+Test scalene triangle classification. ... ok
+test_scalene_not_right (__main__.TestTriangle.test_scalene_not_right)
+Test scalene triangle that is not right. ... ok
+test_two_sides_zero (__main__.TestTriangle.test_two_sides_zero)
+Test triangle with two sides zero. ... ok
+test_write_results_file_content (__main__.TestTriangle.test_write_results_file_content)
+Test that output file contains expected results. ... ok
+test_write_results_to_file_creates_file (__main__.TestTriangle.test_write_results_to_file_creates_file)
+Test that write_results_to_file creates output file. ... ok
+test_zero_side (__main__.TestTriangle.test_zero_side)
+Test triangle with zero side length. ... ok
 
 ----------------------------------------------------------------------
-Ran 6 tests in 0.002s
+Ran 21 tests in 0.003s
 
 OK

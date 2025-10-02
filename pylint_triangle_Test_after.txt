@@ -1,0 +1,6 @@
+************* Module test_triangle
+test_triangle.py:41:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 9.52/10, +0.00)
+

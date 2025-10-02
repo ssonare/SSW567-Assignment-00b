@@ -1,0 +1,19 @@
+************* Module test_triangle
+test_triangle.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+test_triangle.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+test_triangle.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+test_triangle.py:17:0: C0303: Trailing whitespace (trailing-whitespace)
+test_triangle.py:20:0: C0303: Trailing whitespace (trailing-whitespace)
+test_triangle.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+test_triangle.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+test_triangle.py:6:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_triangle.py:9:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_triangle.py:12:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_triangle.py:15:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_triangle.py:18:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_triangle.py:21:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_triangle.py:27:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 3.33/10 (previous run: 3.33/10, +0.00)
+
